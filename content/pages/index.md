@@ -21,6 +21,8 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     section_id: fghjgfhj
+    content: |
+      jghjfghjghfjgfhjfghj
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
